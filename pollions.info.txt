@@ -1,0 +1,20 @@
+POLLIONS PROJECT INFORMATION
+
+
+FTP information
+SSH/FTP: 37.60.225.253
+User: pollions_com
+Password: ODREWNC963isbtw!
+
+
+Drupal: pollions.com
+User: pollions_chandan
+Password: admin12##
+
+Figma
+
+https://www.figma.com/design/DWzQPTwIlna7S29vKRS3ow/Feedback-app
+
+
+
+
